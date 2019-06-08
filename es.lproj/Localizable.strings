@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  I18n Demo
+
+  Created by dam on 08/06/2019.
+  Copyright © 2019 Daniel. All rights reserved.
+*/
+HELLO_WORLD = "Hola mundo!";
